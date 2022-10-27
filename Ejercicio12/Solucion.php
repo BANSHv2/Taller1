@@ -10,6 +10,6 @@
     
     }else{
         $resultado4 = $capital + ($capital*0.7);
-        echo 'La tasa de interes es del 7% mensual y su total es de: '.$resultado4;
+        echo 'La tasa de interes es del 7% mensual y su total es de:  '.$resultado4;
     }
 ?>
